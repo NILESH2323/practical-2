@@ -1,2 +1,2 @@
 # practical-2
-Practical-2 
+C LANGUAGE
