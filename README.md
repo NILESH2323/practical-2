@@ -1,2 +1,2 @@
-# practical-2
+# 1st semester - C LANGUAGE
 C LANGUAGE
